@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "name": "Swift Programming for iOS",
+    "name": "Swift for iOS",
     "author": "Ray Wenderlich",
     "price": "$70",
     "review": 4,
@@ -71,7 +71,7 @@
   },
   {
     "id": 8,
-    "name": "Machine Learning with Python",
+    "name": "JavaScript Mastery",
     "author": "Tom Mitchell",
     "price": "$56",
     "review": 4,
@@ -91,7 +91,7 @@
   },
   {
     "id": 10,
-    "name": "Android App Development",
+    "name": "Next.js Crash Course",
     "author": "Mark Murphy",
     "price": "$15",
     "review": 4,
