@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Python for Beginners",
+    "author": "John Smith",
+    "price": "$15",
+    "review": 4,
+    "favourite": false,
+    "published_year": 2022,
+    "thumbnail": "https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg"
+  },
+  {
+    "id": 2,
+    "name": "JavaScript and jQuery",
+    "author": "Jon Duckett",
+    "price": "$56",
+    "review": 5,
+    "favourite": false,
+    "published_year": 2014,
+    "thumbnail": "https://example.com/javascript_jquery.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Java Fundamentals",
+    "author": "Jane Doe",
+    "price": "$70",
+    "review": 4,
+    "favourite": false,
+    "published_year": 2020,
+    "thumbnail": "https://example.com/java_fundamentals.jpg"
+  },
+  {
+    "id": 4,
+    "name": "C++ Crash Course",
+    "author": "Josh Lospinoso",
+    "price": "$15",
+    "review": 3,
+    "favourite": false,
+    "published_year": 2019,
+    "thumbnail": "https://example.com/cpp_crash_course.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Ruby on Rails Essentials",
+    "author": "Michael Hartl",
+    "price": "$56",
+    "review": 4,
+    "favourite": false,
+    "published_year": 2017,
+    "thumbnail": "https://example.com/ruby_on_rails_essentials.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Swift Programming for iOS",
+    "author": "Ray Wenderlich",
+    "price": "$70",
+    "review": 4,
+    "favourite": false,
+    "published_year": 2018,
+    "thumbnail": "https://example.com/swift_programming_ios.jpg"
+  },
+  {
+    "id": 7,
+    "name": "HTML and CSS Mastery",
+    "author": "Jon Duckett",
+    "price": "$15",
+    "review": 4,
+    "favourite": false,
+    "published_year": 2015,
+    "thumbnail": "https://example.com/html_css_mastery.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Machine Learning with Python",
+    "author": "Tom Mitchell",
+    "price": "$56",
+    "review": 4,
+    "favourite": false,
+    "published_year": 2016,
+    "thumbnail": "https://example.com/machine_learning_python.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Data Science in R",
+    "author": "Hadley Wickham",
+    "price": "$70",
+    "review": 5,
+    "favourite": false,
+    "published_year": 2021,
+    "thumbnail": "https://example.com/data_science_r.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Android App Development",
+    "author": "Mark Murphy",
+    "price": "$15",
+    "review": 4,
+    "favourite": false,
+    "published_year": 2018,
+    "thumbnail": "https://example.com/android_app_development.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Node.js Essentials",
+    "author": "Alex Young",
+    "price": "$56",
+    "review": 3,
+    "favourite": false,
+    "published_year": 2017,
+    "thumbnail": "https://example.com/nodejs_essentials.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Scala Programming",
+    "author": "Martin Odersky",
+    "price": "$70",
+    "review": 4,
+    "favourite": false,
+    "published_year": 2019,
+    "thumbnail": "https://example.com/scala_programming.jpg"
+  },
+  {
+    "id": 13,
+    "name": "React.js in Action",
+    "author": "Mark Tielens Thomas",
+    "price": "$15",
+    "review": 5,
+    "favourite": false,
+    "published_year": 2020,
+    "thumbnail": "https://example.com/reactjs_in_action.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Docker for Developers",
+    "author": "Nick Gauthier",
+    "price": "$56",
+    "review": 4,
+    "favourite": false,
+    "published_year": 2016,
+    "thumbnail": "https://example.com/docker_for_developers.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Vue.js Essentials",
+    "author": "Evan You",
+    "price": "$70",
+    "review": 4,
+    "favourite": false,
+    "published_year": 2021,
+    "thumbnail": "https://example.com/vuejs_essentials.jpg"
+  }
+]
