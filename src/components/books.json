@@ -7,7 +7,7 @@
     "review": 4,
     "favourite": false,
     "published_year": 2022,
-    "thumbnail": "https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg"
+    "thumbnail": "https://i.ibb.co/w4LjzHg/Python-for-Begginers.png"
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "review": 5,
     "favourite": false,
     "published_year": 2014,
-    "thumbnail": "https://example.com/javascript_jquery.jpg"
+    "thumbnail": "https://i.ibb.co/xGFSyXY/HTML-and-CSS.png"
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "review": 4,
     "favourite": false,
     "published_year": 2020,
-    "thumbnail": "https://example.com/java_fundamentals.jpg"
+    "thumbnail": "https://i.ibb.co/xGFSyXY/HTML-and-CSS.png"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "review": 3,
     "favourite": false,
     "published_year": 2019,
-    "thumbnail": "https://example.com/cpp_crash_course.jpg"
+    "thumbnail": "https://i.ibb.co/V0FP8jB/C-Crash-Course.png"
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "review": 4,
     "favourite": false,
     "published_year": 2017,
-    "thumbnail": "https://example.com/ruby_on_rails_essentials.jpg"
+    "thumbnail": "https://i.ibb.co/NK8LspY/Ruby.png"
   },
   {
     "id": 6,
@@ -57,7 +57,7 @@
     "review": 4,
     "favourite": false,
     "published_year": 2018,
-    "thumbnail": "https://example.com/swift_programming_ios.jpg"
+    "thumbnail": "https://i.ibb.co/9w4c1tL/Swift.png"
   },
   {
     "id": 7,
@@ -67,7 +67,7 @@
     "review": 4,
     "favourite": false,
     "published_year": 2015,
-    "thumbnail": "https://example.com/html_css_mastery.jpg"
+    "thumbnail": "https://i.ibb.co/xGFSyXY/HTML-and-CSS.png"
   },
   {
     "id": 8,
@@ -77,7 +77,7 @@
     "review": 4,
     "favourite": false,
     "published_year": 2016,
-    "thumbnail": "https://example.com/machine_learning_python.jpg"
+    "thumbnail": "https://i.ibb.co/xGFSyXY/HTML-and-CSS.png"
   },
   {
     "id": 9,
@@ -87,7 +87,7 @@
     "review": 5,
     "favourite": false,
     "published_year": 2021,
-    "thumbnail": "https://example.com/data_science_r.jpg"
+    "thumbnail": "https://i.ibb.co/xHJJJm8/Data-Science-in-R.png"
   },
   {
     "id": 10,
@@ -97,7 +97,7 @@
     "review": 4,
     "favourite": false,
     "published_year": 2018,
-    "thumbnail": "https://example.com/android_app_development.jpg"
+    "thumbnail": "https://i.ibb.co/ZBncbZL/Next-js.png"
   },
   {
     "id": 11,
@@ -107,7 +107,7 @@
     "review": 3,
     "favourite": false,
     "published_year": 2017,
-    "thumbnail": "https://example.com/nodejs_essentials.jpg"
+    "thumbnail": "https://i.ibb.co/KxYMcYd/Node-js.png"
   },
   {
     "id": 12,
@@ -117,7 +117,7 @@
     "review": 4,
     "favourite": false,
     "published_year": 2019,
-    "thumbnail": "https://example.com/scala_programming.jpg"
+    "thumbnail": "https://i.ibb.co/ZS0mpnP/Scala.png"
   },
   {
     "id": 13,
@@ -127,7 +127,7 @@
     "review": 5,
     "favourite": false,
     "published_year": 2020,
-    "thumbnail": "https://example.com/reactjs_in_action.jpg"
+    "thumbnail": "https://i.ibb.co/pPBqC7H/React.png"
   },
   {
     "id": 14,
@@ -137,7 +137,7 @@
     "review": 4,
     "favourite": false,
     "published_year": 2016,
-    "thumbnail": "https://example.com/docker_for_developers.jpg"
+    "thumbnail": "https://i.ibb.co/56DNFZs/Docker.png"
   },
   {
     "id": 15,
@@ -147,6 +147,6 @@
     "review": 4,
     "favourite": false,
     "published_year": 2021,
-    "thumbnail": "https://example.com/vuejs_essentials.jpg"
+    "thumbnail": "https://i.ibb.co/2q4pv7Z/Vue-js.png"
   }
 ]

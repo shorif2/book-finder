@@ -1,5 +1,4 @@
 import { useState } from "react";
-import bookImage from "../assets/book.png";
 import star from "../assets/star.svg";
 import BookAction from "./BookAction";
 import bookList from "./books.json";
@@ -66,8 +65,8 @@ function BookCart({ book, handleStar }) {
     <>
       <div className="space-y-3">
         {/* thumbnail */}
-        <div className="flex items-center justify-center rounded-md border border-[#324251]/30 bg-white p-4">
-          <img className="max-w-[144px]" src={bookImage} alt="book name" />
+        <div className="flex items-center   justify-center rounded-md border border-[#324251]/30 bg-[#DAE3F2] p-4">
+          <img className="max-w-[144px]" src={book.thumbnail} alt="book name" />
         </div>
         {/* info */}
         <div className="space-y-3">
